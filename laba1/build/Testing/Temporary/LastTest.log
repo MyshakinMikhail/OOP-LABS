@@ -1,10 +1,10 @@
-Start testing: Sep 18 11:11 RTZ 2 (çèìà)
+Start testing: Sep 18 11:22 RTZ 2 (çèìà)
 ----------------------------------------------------------
 1/1 Testing: RemoveVowelsTests
 1/1 Test: RemoveVowelsTests
 Command: "C:/Users/Public/VsCodePrograms/Cpp/OOP-LABS/laba1/build/runTests.exe"
 Directory: C:/Users/Public/VsCodePrograms/Cpp/OOP-LABS/laba1/build
-"RemoveVowelsTests" start time: Sep 18 11:11 RTZ 2 (çèìà)
+"RemoveVowelsTests" start time: Sep 18 11:22 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 Running main() from C:\Users\Public\VsCodePrograms\Cpp\OOP-LABS\laba1\build\_deps\googletest-src\googletest\src\gtest_main.cc
@@ -19,11 +19,11 @@ Running main() from C:\Users\Public\VsCodePrograms\Cpp\OOP-LABS\laba1\build\_dep
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.22 sec
+Test time =   0.26 sec
 ----------------------------------------------------------
 Test Passed.
-"RemoveVowelsTests" end time: Sep 18 11:11 RTZ 2 (çèìà)
+"RemoveVowelsTests" end time: Sep 18 11:22 RTZ 2 (çèìà)
 "RemoveVowelsTests" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 18 11:11 RTZ 2 (çèìà)
+End testing: Sep 18 11:22 RTZ 2 (çèìà)

@@ -1,2 +1,2 @@
-RemoveVowelsTests 1 0.220531
+RemoveVowelsTests 1 0.257212
 ---
